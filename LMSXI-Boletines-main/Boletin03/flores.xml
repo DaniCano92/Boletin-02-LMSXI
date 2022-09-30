@@ -2,8 +2,5 @@
 <!DOCTYPE flores [
     <!ELEMENT flores (flor+)>
         <!ELEMENT flor (#PCDATA)>
-]>
-
-
-<flores>
-<flores/>
+]
+<flores><flores/>
