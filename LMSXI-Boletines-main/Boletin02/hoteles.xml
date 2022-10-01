@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <hoteles>
-    <hotel>
-        <nombre>...</nombre>
-        <telefono>...</telefono>
-        <direccion> calle="..." numero="..."</direccion>
-        <ciudad>...</ciudad>
-        <pais>...</pais>
-        <numero-de-estrellas>...</numero-de-estrellas>
-        <descripcion-del-hotel>...</descripcion-del-hotel>
-        <numero-habitaciones-individuales>...</numero-habitaciones-individuales>
-        <habitaciones-dobles>...</habitaciones-dobles>
-        <habitaciones-triples>...</habitaciones-triples>
-        <suites>...</suites>
-    </hotel>
+        <hotel>
+                <nombre>...</nombre>
+                <telefono>...</telefono>
+                <direccion> calle="..." numero="..."</direccion>
+                <ciudad>...</ciudad>
+                <pais>...</pais>
+                <numero-de-estrellas>...</numero-de-estrellas>
+                <descripcion-del-hotel>...</descripcion-del-hotel>
+                <numero-habitaciones-individuales>...</numero-habitaciones-individuales>
+                <habitaciones-dobles>...</habitaciones-dobles>
+                <habitaciones-triples>...</habitaciones-triples>
+                <suites>...</suites>
+        </hotel>
 </hoteles>
